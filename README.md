@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @udeme-goc
+- 👋 Hi, I’m Udeme Harrison
 - 👀 I’m interested in creating ICT-based solutions that make businesses run efficiently.
 - 🌱 I’m currently learning Software Engineering at ALX Africa.
-- 💞️ I’m looking to collaborate on browser-based business administraion portals.
+- 💞️ I’m looking to collaborate on browser-based business administration portals.
 - 📫 How to reach me? Email: udeme-goc@gmail.com  | Twitter: @udsharry  |  WhatsApp: +234 802 234 4455
 
 <!---
